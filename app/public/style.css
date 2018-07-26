@@ -1,0 +1,36 @@
+
+
+.btn {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color:#286090;
+}
+
+.container {
+    margin-right: 12%;
+    margin-left: 12%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.display-4 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 1%;
+}
+.jumbotron {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+p {
+    font-size: 30px;
+}
+
+.questionNumber {
+    font-weight: bold;
+    font-size: 25px;
+}
