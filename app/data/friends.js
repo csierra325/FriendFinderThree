@@ -1,8 +1,8 @@
 
-module.exports = [
+var friends = [
     {
     name: "Frankenstein",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/260px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg",
     scores: [
         5,
         2,
@@ -18,7 +18,7 @@ module.exports = [
 },
 {
     name: "Jerry Seinfeld",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Jerry_Seinfeld.jpg/250px-Jerry_Seinfeld.jpg",
     scores: [
         5,
         3,
@@ -35,7 +35,7 @@ module.exports = [
 
 {
     name: "Adam Sandler",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://img.discogs.com/SLtxKYEd7V6K5gMTQ0zNIOQoDW4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-208098-1203764470.jpeg.jpg",
     scores: [
         5,
         5,
@@ -52,7 +52,7 @@ module.exports = [
 
 {
     name: "Jerry Lewis",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerry_Lewis_-_1960s.jpg/220px-Jerry_Lewis_-_1960s.jpg",
     scores: [
         1,
         1,
@@ -69,7 +69,7 @@ module.exports = [
 },
 {
     name: "Frodo Baggins",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Elijah_Wood_as_Frodo_Baggins.png/220px-Elijah_Wood_as_Frodo_Baggins.png",
     scores: [
         2,
         2,
@@ -86,7 +86,7 @@ module.exports = [
 },
 {
     name: "The Dalai Lama",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dalailama1_20121014_4639.jpg/220px-Dalailama1_20121014_4639.jpg",
     scores: [
         5,
         4,
@@ -103,7 +103,7 @@ module.exports = [
 },
 {
     name: "Harry Potter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDkiwSZqJcPvR25E2uYS2jIMVMR5gOxrYaHQZ8YfWOwzOXAlKo",
     scores: [
         1,
         1,
@@ -125,9 +125,4 @@ module.exports = [
 
 
 
-
-
-
-// totalDifference = User 1: `[5, 1, 4, 4, 5, 1, 2, 5, 4, 1]` 
-//     User 2: `[3, 2, 6, 4, 5, 1, 2, 5, 4, 1]` 
-//     Total Difference: ** 2 + 1 + 2 = ** ** _5_ **
+module.exports = friends;
