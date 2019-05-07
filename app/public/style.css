@@ -4,8 +4,12 @@
     margin-top: 2%;
     margin-bottom: 2%;
     background-color:#286090;
+    opacity: 0.7;
 }
+.lead{
+    margin-left: 45%;
 
+}
 .container {
     margin-right: 12%;
     margin-left: 12%;
@@ -15,6 +19,7 @@
 .display-4 {
     font-weight: bold;
     font-size: 60px;
+ 
 }
 
 h2 {
@@ -24,7 +29,12 @@ h2 {
 .jumbotron {
     margin-right: 10%;
     margin-left: 10%;
+    background-image: url("./images/harry-potter-bottom.jpg");
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
 p {
     font-size: 30px;
