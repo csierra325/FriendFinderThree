@@ -1,4 +1,8 @@
-
+body{
+    background-image: url("./images/backdrop.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
 .btn {
     margin-top: 2%;
@@ -7,8 +11,7 @@
     opacity: 0.7;
 }
 .lead{
-    margin-left: 45%;
-
+    text-align: center !important;
 }
 .container {
     margin-right: 12%;
@@ -19,6 +22,7 @@
 .display-4 {
     font-weight: bold;
     font-size: 60px;
+    text-align: center;
  
 }
 
@@ -27,15 +31,14 @@ h2 {
     margin-bottom: 1%;
 }
 .jumbotron {
-    margin-right: 10%;
-    margin-left: 10%;
-    background-image: url("./images/harry-potter-bottom.jpg");
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin: 6% 10% 0 10%;
+    background-color: grey !important;
 }
 
-
+.btn2survey{
+    width: 13em;
+    height: 8em;
+}
 p {
     font-size: 30px;
 }
