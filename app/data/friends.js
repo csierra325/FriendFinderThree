@@ -1,8 +1,8 @@
 
 var friends = [
     {
-    name: "Frankenstein",
-    photo: "./public/images/harry-potter.png",
+    name: "Luna Lovegood",
+    photo: "https://live.staticflickr.com/7327/9562499842_d98a32e148_b.jpg",
     scores: [
         5,
         2,
@@ -17,8 +17,8 @@ var friends = [
     ]
 },
 {
-    name: "Jerry Seinfeld",
-    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Jerry_Seinfeld.jpg/250px-Jerry_Seinfeld.jpg",
+    name: "Lord Voldemort",
+    photo: "https://live.staticflickr.com/8199/8266053261_84c9f4e819.jpg",
     scores: [
         5,
         3,
@@ -34,8 +34,8 @@ var friends = [
 },
 
 {
-    name: "Adam Sandler",
-    photo: "https://img.discogs.com/SLtxKYEd7V6K5gMTQ0zNIOQoDW4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-208098-1203764470.jpeg.jpg",
+    name: "Hermione Granger",
+    photo: "https://live.staticflickr.com/3141/2683374643_8a6b1be995.jpg",
     scores: [
         5,
         5,
@@ -51,8 +51,8 @@ var friends = [
 },
 
 {
-    name: "Jerry Lewis",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerry_Lewis_-_1960s.jpg/220px-Jerry_Lewis_-_1960s.jpg",
+    name: "Ron Weasley",
+    photo: "https://live.staticflickr.com/4149/5191755153_6994a8b5f4.jpg",
     scores: [
         1,
         1,
@@ -68,8 +68,8 @@ var friends = [
 
 },
 {
-    name: "Frodo Baggins",
-    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Elijah_Wood_as_Frodo_Baggins.png/220px-Elijah_Wood_as_Frodo_Baggins.png",
+    name: "Professor Albus Dumbledore",
+    photo: "https://live.staticflickr.com/7313/9658652172_95218d5f62_b.jpg",
     scores: [
         2,
         2,
@@ -85,8 +85,8 @@ var friends = [
 
 },
 {
-    name: "The Dalai Lama",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dalailama1_20121014_4639.jpg/220px-Dalailama1_20121014_4639.jpg",
+    name: "Professor Severus Snape",
+    photo: "https://live.staticflickr.com/3335/3181434777_a1897a737f.jpg",
     scores: [
         5,
         4,
