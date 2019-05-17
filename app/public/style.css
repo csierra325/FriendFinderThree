@@ -6,6 +6,15 @@ body{
 .form-group{
 color: wheat;
 }
+
+.mr-auto{
+color: grey !important;
+font-weight: bold !important;
+}
+#match_name{
+  font-weight: bold;
+  text-align: center;  
+}
 .btn {
     margin-top: 2%;
     margin-bottom: 2%;
