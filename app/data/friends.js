@@ -2,7 +2,7 @@
 var friends = [
     {
     name: "Frankenstein",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/260px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg",
+    photo: "./public/images/harry-potter.png",
     scores: [
         5,
         2,
