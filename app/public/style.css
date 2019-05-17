@@ -31,7 +31,7 @@ color: wheat;
 h2 {
     text-align: left;
     margin-bottom: 1%;
-    color: wheat;
+    color: wheat !important;
 }
 .jumbotron {
     margin: 6% 10% 0 10%;
